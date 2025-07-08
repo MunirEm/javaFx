@@ -82,10 +82,12 @@ Usuario: cambia entre modo Alumnado y Profesorado.
 Todos los eventos importantes como cálculos y errores se registran en:
 
 
-
+```bash
 logs/test.log
+```
 
 
 👨‍💻 Autor
 Munir El Moussaoui
+
 📧 mounircorreos@gmail.com
