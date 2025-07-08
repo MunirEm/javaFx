@@ -58,7 +58,7 @@ javac --module-path /ruta/javafx-sdk/lib --add-modules javafx.controls,javafx.fx
 java --module-path /ruta/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml -cp out application.Main
 Reemplaza /ruta/javafx-sdk/lib por la ruta real de tu SDK de JavaFX.
 
-bash
+```
 
 📋 Recursos de idioma (ResourceBundle)
 El contenido textual de la aplicación se puede cambiar dinámicamente al seleccionar Profesorado o Alumnado. Esto recarga la interfaz con los textos definidos en:
